@@ -1,4 +1,4 @@
-// import 'package:SSSS_SSSS/Alert_Dialog_Example_S.dart';
+// import 'package:SSSS_SSSS/alert_dialog_example_s.dart';
 // import 'package:flutter_test/flutter_test.dart';
 //
 //

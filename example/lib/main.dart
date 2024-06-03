@@ -1,4 +1,4 @@
-import 'package:Alert_Dialog_Example_S/Alert_Dialog_Example_S.dart';
+import 'package:alert_dialog_example_s/alert_dialog_example_s.dart';
 import 'package:flutter/material.dart';
 
 
