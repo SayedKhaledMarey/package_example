@@ -25,10 +25,10 @@ If you want to use this package in your Flutter project, follow these steps:
 
 ```yaml
 dependencies:
-  your_package_name: ^1.0.0 # Replace with the actual package name and version
+  Alert_Dialog_Example_S: ^1.0.0 # Replace with the actual package name and version
   
 2. Run flutter pub get to install the package.
 
 3. Import the package where you want to use it:
      
-     import 'package:your_package_name/your_package_name.dart';
+     import 'package:Alert_Dialog_Example_S/Alert_Dialog_Example_S.dart';
