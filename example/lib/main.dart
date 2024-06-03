@@ -1,5 +1,6 @@
-import 'package:SSSS_SSSS/package_example.dart';
+import 'package:Alert_Dialog_Example_S/Alert_Dialog_Example_S.dart';
 import 'package:flutter/material.dart';
+
 
 
 void main() {
