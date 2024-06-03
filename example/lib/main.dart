@@ -1,4 +1,4 @@
-import 'package:alert_dialog_example_S/package_example.dart';
+import 'package:SSSS_SSSS/package_example.dart';
 import 'package:flutter/material.dart';
 
 
@@ -119,7 +119,7 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: () async {
-          await CustomAlertBox.showCustomAlertBox(
+          await CustomAlertBoxS.showCustomAlertBox(
               context: context,
               willDisplayWidget: Container(
                 child: const Text('My custom alert box'),

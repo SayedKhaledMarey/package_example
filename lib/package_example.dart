@@ -1,7 +1,7 @@
 library package_example;
 import 'package:flutter/material.dart';
 
-class CustomAlertBox {
+class CustomAlertBoxS {
   static Future showCustomAlertBox({
     required BuildContext context,
     required Widget willDisplayWidget,
