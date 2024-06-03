@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Description
 
-TODO: Put a short description of the package here.
+A simple example of how to use the package.
 
 ## Getting Started
 
