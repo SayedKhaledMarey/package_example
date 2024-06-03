@@ -1,7 +1,8 @@
-name: package_example
+name: alert_dialog_example
 description: "A new Flutter project."
 version: 0.0.1
-homepage:
+author: Sayed Khaled Marey<SayedMarey333@gmail.com>
+homepage: https://github.com/SayedKhaledMarey/package_example.git
 
 environment:
   sdk: '>=3.4.1 <4.0.0'
