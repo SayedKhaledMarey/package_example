@@ -1,4 +1,6 @@
+import 'package:alert_dialog_example/package_example.dart';
 import 'package:flutter/material.dart';
+
 
 void main() {
   runApp(const MyApp());
@@ -116,7 +118,13 @@ class _MyHomePageState extends State<MyHomePage> {
         ),
       ),
       floatingActionButton: FloatingActionButton(
-        onPressed: _incrementCounter,
+        onPressed: () async {
+          await CustomAlertBox.showCustomAlertBox(
+              context: context,
+              willDisplayWidget: Container(
+                child: Text('My custom alert box, used from example!!'),
+              ));
+        },
         tooltip: 'Increment',
         child: const Icon(Icons.add),
       ), // This trailing comma makes auto-formatting nicer for build methods.
