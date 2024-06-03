@@ -122,7 +122,7 @@ class _MyHomePageState extends State<MyHomePage> {
           await CustomAlertBox.showCustomAlertBox(
               context: context,
               willDisplayWidget: Container(
-                child: Text('My custom alert box, used from example!!'),
+                child: const Text('My custom alert box'),
               ));
         },
         tooltip: 'Increment',
