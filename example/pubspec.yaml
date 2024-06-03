@@ -30,7 +30,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  alert_dialog_example:
+  alert_dialog_example_S:
     path: ../
 
 
