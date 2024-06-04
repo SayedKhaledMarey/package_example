@@ -15,7 +15,7 @@ If you want to use this package in your Flutter project, follow these steps:
 
 ```yaml
 dependencies:
-  alert_dialog_example_s: ^0.0.1 
+  alert_dialog_example_s: ^0.0.2 
   
 2. Run flutter pub get to install the package.
 
