@@ -1,5 +1,7 @@
 # Example
 it is a simple example of how to use the package.
+<=sample=>
+![Screenshot_20240604_125216](https://github.com/SayedKhaledMarey/package_example/assets/91253878/5574f20d-7ee4-439d-8f34-b66bd7704ff4)
 
 ## Description
 
