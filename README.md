@@ -1,10 +1,9 @@
 # Example
-
-A new Flutter project.
+it is a simple example of how to use the package.
 
 ## Description
 
-A simple example of how to use the package.
+A simple Alert Dialog with customizable options.
 
 ## Installation
 
@@ -14,10 +13,10 @@ If you want to use this package in your Flutter project, follow these steps:
 
 ```yaml
 dependencies:
-  Alert_Dialog_Example_S: ^1.0.0 # Replace with the actual package name and version
+  alert_dialog_example_s: ^0.0.2 
   
 2. Run flutter pub get to install the package.
 
 3. Import the package where you want to use it:
      
-     import 'package:Alert_Dialog_Example_S/Alert_Dialog_Example_S.dart';
+     import 'package:alert_dialog_example_s/alert_dialog_example_s.dart';
